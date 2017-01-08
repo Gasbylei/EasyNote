@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/jars/libs/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd625f5e7bba8235782b5dc4244c3fd26953190f">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_d12a3418ec36a03c00416ed7714609f380a613f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_9cf50cc93cff7be879e06cd518aa3d2ea37608f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-im/2.0.5/jars/libs/androidasync-2.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c88f1359a331cff1ea593267d1f63dca63b364b">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/androidasync-2.1.6_96b2f4db4e33bf5d0b9e9c2b5c528021bdb75b56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e47f10299673ab68f24c595f96b18086cc9a8384">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.bmob.android-bmob-sdk-3.5.0_e7b9c3a2c212734c7cb2723ede91abe7f9acaf4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_a3d836704c5fc921a37fb415150a0340c43a6dd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_2eaec681298a0aacf2cb2d30f6b816dfb5c62b6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/jars/libs/okio-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bbeca71da43c8f4bc9ceedec002060f53437ad26">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.7.0_76863f88c0c28fdc2b08236a46a2a9f311c19068/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_b17f27a523e01ccbbfd43938a9e5708a0a3ecc40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c6700ba0facffe7c710d751ddfd630e7e5559236/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/jars/libs/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac615240b277e7fd3950d7b35f73b733f310cede">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_961e009ba1531f47ef5b084fd37ed713093d3b0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcad865171846b495b08d6fb9bd76a3576f0837a">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_de019d5e0c7a3cae92e9897a26e1d4b2c0944597/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_10414b5c5484a8fc032ddf320f45cba35160659a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_b11157b93d92b7a45fdcd57c44eb5ad3aa839bf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a67bd59b6a239824e3dc7073d32691a7d1240f38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-im/2.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="46b64293efb94feb03e6270d400f95b2664513f6">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.bmob.android-bmob-im-2.0.5_f3455144db36465d3b0dc1179343a354c5a467a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-im/2.0.5/jars/libs/BmobNewIM_2.0.5_20160601.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b535a2906149ccebadc4b1cab0126130916842ea">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/BmobNewIM_2.0.5_20160601_93b4f23d95e7e4a75c7becba1feff4da36992dac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_f6b3b6b1c25369b74759ea8bc6c0f9909c77d02e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_2700e0f472a8f87fcf3348c05c9fd9c17ce8b5aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1237c5e54621cd8b2718343a962c995a3a46c245/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/jars/libs/BmobSDK_3.5.0_20160630.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8eb5c605a02f792e326c5ac8e4feb2c18dd171ad">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/BmobSDK_3.5.0_20160630_45e5349485cb5b01cda1416e1ebfa5a5114e6c83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_34f8d5303bfcae4e838062756db4f04bab7a5efc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_9667309e853c5919acd8164e6141e7855a61768a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/jars/libs/okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7cb33d9f82d3b8521c6594b180f4dd9fc6d49f2">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_be26b25ea099aec8e4935c76e2f934a1a4b5bf2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_cbf57dad9d325b9e6929e5a632566cc883feef35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.0/jars/libs/rxandroid-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19beef6debb6a22febc28777464c71bfccbafe3d">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxandroid-1.2.0_95eea8d27df738035b1f78b2f05015c31dbdfac9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/.gradle/caches/modules-2/files-2.1/cn.bmob.android/bmob-push/0.8/2fe391ed9034cd023de1da05cb8da77e08b46245/bmob-push-0.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2fe391ed9034cd023de1da05cb8da77e08b46245">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/bmob-push-0.8_ce1cd02bf01be59b6aa7cb8f6b7a32a133b6ea5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_7b6e618cefb4a4cca1c2a6547245792672f7612c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_59e70f55c2a3b16167229e0f17cdfdee29c98cec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_dd76597e1d9d8b7fae2dc2260de5d4fa7f35488e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e4ce6d46336988840b0ab5ae0ee56f93f22e429">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e54cf4ccf474e4bc3395908a3292fb81ec50fdb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/gasby/AndroidStudioProjects/EasyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_1940ca8d764ee3f4d904a21d2aa85045bedfaccd/classes.dex" />
+    </item>
+
+</items>
